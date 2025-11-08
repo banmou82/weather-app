@@ -1,16 +1,33 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Weather Application** built with **React**, **Vite**, and **SCSS**, which allows users to search for real-time weather information of any city around the world.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [Weather App on Vercel](https://weather-app-nine-eta-95.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🌎 Search weather by city name  
+- 🌡️ Displays temperature, humidity, wind speed, and weather conditions  
+- 🌈 Dynamic weather icons and background based on current conditions  
+- ⚡ Built using **React + Vite** for fast performance  
+- 💅 Styled using **SCSS** for modular and clean design  
+- 🔁 Real-time data fetched from a Weather API  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite  
+- **Styling:** SCSS  
+- **API:** OpenWeatherMap API (or similar)  
+- **Hosting:** Vercel  
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/banmou82/weather-app.git
